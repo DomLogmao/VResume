@@ -78,7 +78,7 @@
         Parallax Js Here
         -----------------*/
         $('.parallax-header').parallax({
-            imageSrc: 'img/header-bg.jpg'
+            imageSrc: 'img/javascript-with-laptop-code.jpg'
         });
 
         /*---------------------
